@@ -30,7 +30,7 @@
  "id": 205,
  "name": "Chocolate Hills",
  "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/choco.png",
- "price": 1,186.6,
+ "price": 1186.6,
  "priceCurrency": "km",
  "lat": 9.829708,
  "lng": 124.139676
@@ -102,7 +102,7 @@
  "id": 217,
  "name": "Puerto Pincesa Subterranean River National Park",
  "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/hundred.jpg",
- "price": 1,064.9,
+ "price": 1064.9,
  "priceCurrency": "km",
  "lat": 10.192559,
  "lng": 118.926583
