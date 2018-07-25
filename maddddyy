@@ -38,7 +38,7 @@
  {
  "id": 210,
  "name": "Siargao",
- "imageUrl": "https://github.com/maddpaulo/paulo/blob/master/siargao%20island.jpg",
+ "imageUrl": "https://raw.githubusercontent.com/maddpaulo/paulo/master/siargao%20island.jpg",
  "price": 967,
  "priceCurrency": "km",
  "lat": 9.848188,
