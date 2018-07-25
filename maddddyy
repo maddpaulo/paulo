@@ -2,7 +2,7 @@
  {
  "id": 145,
  "name": "Gwapo Quinavite",
- "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/1.png",
+ "imageUrl": "https://raw.githubusercontent.com/maddpaulo/paulo/master/quinavite.jpg",
  "price": 0,
  "priceCurrency": "km",
  "lat": 16.538011,
@@ -11,7 +11,7 @@
  {
  "id": 148,
  "name": "Boracay",
- "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/boracay.jpg",
+ "imageUrl": "https://raw.githubusercontent.com/maddpaulo/paulo/master/boracay.jpg",
  "price": 703.3,
  "priceCurrency": "km",
  "lat": 11.967375,
@@ -20,7 +20,7 @@
  {
  "id": 201,
  "name": "Rice Terraces, Baguio City",
- "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/palawan.jpg",
+ "imageUrl": "https://raw.githubusercontent.com/maddpaulo/paulo/master/rice-terraces-in-asia.jpg",
  "price": 218.8,
  "priceCurrency": "km",
  "lat": 16.923954,
@@ -29,7 +29,7 @@
  {
  "id": 205,
  "name": "Chocolate Hills",
- "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/choco.png",
+ "imageUrl": "https://raw.githubusercontent.com/maddpaulo/paulo/master/chocolate%20hills.png",
  "price": 1186.6,
  "priceCurrency": "km",
  "lat": 9.829708,
@@ -38,7 +38,7 @@
  {
  "id": 210,
  "name": "Siargao",
- "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/Siargaoisland.jpg",
+ "imageUrl": "https://github.com/maddpaulo/paulo/blob/master/siargao%20island.jpg",
  "price": 967,
  "priceCurrency": "km",
  "lat": 9.848188,
@@ -47,7 +47,7 @@
  {
  "id": 211,
  "name": "Vigan Calle Crisologo",
- "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/Banaue.jpg",
+ "imageUrl": "https://raw.githubusercontent.com/maddpaulo/paulo/master/Vigan%20Calle%20Crisologo.jpg",
  "price": 145.8,
  "priceCurrency": "km",
  "lat": 17.569893,
@@ -56,7 +56,7 @@
  {
  "id": 212,
  "name": "Pagudpud Ilocos Norte",
- "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/mactan.jpg",
+ "imageUrl": "https://raw.githubusercontent.com/maddpaulo/paulo/master/Pagudpud%20Ilocos%20Norte.jpg",
  "price": 1117,
  "priceCurrency": "km",
  "lat": 18.555919,
@@ -65,7 +65,7 @@
  {
  "id": 213,
  "name": "Hundred Island",
- "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/panglao.jpg",
+ "imageUrl": "https://raw.githubusercontent.com/maddpaulo/paulo/master/Hundred%20Island.jpg",
  "price": 121.3,
  "priceCurrency": "km",
  "lat": 16.204001,
@@ -83,7 +83,7 @@
  {
  "id": 215,
  "name": "El Nido, Palawan",
- "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/Taal-Volcano.jpg",
+ "imageUrl": "https://raw.githubusercontent.com/maddpaulo/paulo/master/El%20Nido%2C%20Palawan.jpg",
  "price": 877.6,
  "priceCurrency": "km",
  "lat": 11.209709,
@@ -92,7 +92,7 @@
  {
  "id": 216,
  "name": "Subic Bay",
- "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/subic.jpg",
+ "imageUrl": "https://raw.githubusercontent.com/maddpaulo/paulo/master/Subic%20Bay.jpg",
  "price": 244.6,
  "priceCurrency": "km",
  "lat": 14.786304,
@@ -101,10 +101,19 @@
  {
  "id": 217,
  "name": "Puerto Pincesa Subterranean River National Park",
- "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/hundred.jpg",
+ "imageUrl": "https://raw.githubusercontent.com/maddpaulo/paulo/master/Puerto%20Pincesa%20Subterranean%20River%20National%20Park.jpg",
  "price": 1064.9,
  "priceCurrency": "km",
  "lat": 10.192559,
  "lng": 118.926583
+ }
+ {
+ "id": 217,
+ "name": "Tagaytay",
+ "imageUrl": "https://raw.githubusercontent.com/maddpaulo/paulo/master/Puerto%20Pincesa%20Subterranean%20River%20National%20Park.jpg",
+ "price": 330.0,
+ "priceCurrency": "km",
+ "lat": 14.115286,
+ "lng": 120.962116
  }
 ]
