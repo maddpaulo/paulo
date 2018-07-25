@@ -1,0 +1,110 @@
+[
+ {
+ "id": 145,
+ "name": "Gwapo Quinavite",
+ "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/1.png",
+ "price": 0,
+ "priceCurrency": "km",
+ "lat": 16.538011,
+ "lng": 120.330578
+ },
+ {
+ "id": 148,
+ "name": "Boracay",
+ "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/boracay.jpg",
+ "price": 703.3,
+ "priceCurrency": "km",
+ "lat": 11.967375,
+ "lng": 121.924815
+ },
+ {
+ "id": 201,
+ "name": "Rice Terraces, Baguio City",
+ "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/palawan.jpg",
+ "price": 218.8,
+ "priceCurrency": "km",
+ "lat": 16.923954,
+ "lng": 121.055640
+ },
+ {
+ "id": 205,
+ "name": "Chocolate Hills",
+ "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/choco.png",
+ "price": 1,186.6,
+ "priceCurrency": "km",
+ "lat": 9.829708,
+ "lng": 124.139676
+ },
+ {
+ "id": 210,
+ "name": "Siargao",
+ "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/Siargaoisland.jpg",
+ "price": 967,
+ "priceCurrency": "km",
+ "lat": 9.848188,
+ "lng": 126.045844
+ },
+ {
+ "id": 211,
+ "name": "Vigan Calle Crisologo",
+ "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/Banaue.jpg",
+ "price": 145.8,
+ "priceCurrency": "km",
+ "lat": 17.569893,
+ "lng": 120.388324
+ },
+ {
+ "id": 212,
+ "name": "Pagudpud Ilocos Norte",
+ "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/mactan.jpg",
+ "price": 1117,
+ "priceCurrency": "km",
+ "lat": 18.555919,
+ "lng": 120.792754
+ },
+ {
+ "id": 213,
+ "name": "Hundred Island",
+ "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/panglao.jpg",
+ "price": 121.3,
+ "priceCurrency": "km",
+ "lat": 16.204001,
+ "lng": 120.040869
+ },
+ {
+ "id": 214,
+ "name": "Coron Island",
+ "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/coron.jpg",
+ "price": 512,
+ "priceCurrency": "km",
+ "lat": 11.928329,
+ "lng": 120.239734
+ },
+ {
+ "id": 215,
+ "name": "El Nido, Palawan",
+ "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/Taal-Volcano.jpg",
+ "price": 877.6,
+ "priceCurrency": "km",
+ "lat": 11.209709,
+ "lng": 119.462254
+ },
+ {
+ "id": 216,
+ "name": "Subic Bay",
+ "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/subic.jpg",
+ "price": 244.6,
+ "priceCurrency": "km",
+ "lat": 14.786304,
+ "lng": 120.259552
+ },
+ {
+ "id": 217,
+ "name": "Puerto Pincesa Subterranean River National Park",
+ "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/hundred.jpg",
+ "price": 1,064.9,
+ "priceCurrency": "km",
+ "lat": 10.192559,
+ "lng": 118.926583
+ }
+]
