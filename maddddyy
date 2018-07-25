@@ -74,7 +74,7 @@
  {
  "id": 214,
  "name": "Coron Island",
- "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/coron.jpg",
+ "imageUrl": "https://raw.githubusercontent.com/maddpaulo/paulo/master/coron%20palawan.jpg",
  "price": 512,
  "priceCurrency": "km",
  "lat": 11.928329,
@@ -110,7 +110,7 @@
  {
  "id": 217,
  "name": "Tagaytay",
- "imageUrl": "https://raw.githubusercontent.com/maddpaulo/paulo/master/Puerto%20Pincesa%20Subterranean%20River%20National%20Park.jpg",
+ "imageUrl": "https://raw.githubusercontent.com/maddpaulo/paulo/master/tagaytay.jpg",
  "price": 330.0,
  "priceCurrency": "km",
  "lat": 14.115286,
